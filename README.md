@@ -7,7 +7,7 @@
 
 A comprehensive and visually appealing Grafana dashboard for monitoring multiple servers using Node Exporter metrics collected by Prometheus.
 
-![Dashboard Screenshot](dashboard1t.png)
+![Dashboard Screenshot](dashboard1.png)
 
 ## Table of Contents
 
