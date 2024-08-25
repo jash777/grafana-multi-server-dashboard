@@ -106,6 +106,10 @@ For general questions, feel free to start a discussion in the [Discussions](http
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 📞 Contact
+
+Alphasec - [@alpha_sec79](https://x.com/alpha_sec79) - alphasec79@alphasec.cloud
+
 ---
 
 Made with ❤️ by [Jashuva/alphasec]
